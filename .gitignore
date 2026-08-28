@@ -1,0 +1,8 @@
+.qodo/
+.venv/
+.idea/
+data/
+__pycache__/
+*.pyc
+.tmp
+personal.txt
